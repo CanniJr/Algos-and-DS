@@ -103,4 +103,11 @@ console.log(sumNumber(nums))
 // T = n => O(n)
 
 
+const arr = [ -1,3,8,2,9,5 ]
+const arr2 = [ 4,1,2,10,5,20 ]
+const target = 24
+// From the 2 arrays of integers, find the sum of a pair from each array that is closest to the target.
+
+
+
 
